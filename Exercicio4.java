@@ -5,7 +5,6 @@ Aluno: Rômulo Souza Fernandes
 E-mail: 00119110559@pq.uenf.br
 Data de criação: 19/10/22 
 */
-
 import java.util.Scanner;
 
 public class Exercicio4 {

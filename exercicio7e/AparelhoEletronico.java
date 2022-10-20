@@ -1,5 +1,8 @@
-package exercicio7e;
+package exercicioPLP;
 
 public class AparelhoEletronico {
-    
+
+    double voltagemNecessaria;
+    boolean memoriaROM;
+
 }

@@ -1,5 +1,8 @@
-package exercicio7e;
+package exercicioPLP;
 
-public class MicroControlador {
-    
+public class MicroControlador extends AparelhoEletronico {
+
+    int serie;
+    String modelo;
+
 }

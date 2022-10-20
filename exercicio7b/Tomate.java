@@ -2,11 +2,10 @@ package exercicioPLP;
 
 public class Tomate extends Fruta {
 
-	Tomate(int lote) {
-		super(lote);
-	}
-	
+    Tomate(int lote) {
+        super(lote);
+    }
 
-	String nome;
-	String tipo;
+    String nome;
+    String tipo;
 }

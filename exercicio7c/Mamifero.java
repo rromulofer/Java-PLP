@@ -1,5 +1,7 @@
-package exercicio7c;
+package exercicioPLP;
 
 public class Mamifero {
-    
+
+    String localDeNascimento;
+
 }
